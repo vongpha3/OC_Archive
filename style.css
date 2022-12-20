@@ -1,0 +1,55 @@
+.container-1 {
+
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+
+}
+
+#oc-body {
+
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+
+}
+
+#side-nav {
+
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+
+    background-color: #989898;
+
+}
+
+.oc-info {
+
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+
+    margin: 5%;
+
+}
+
+.head-img {
+
+    height: 70vh;
+    border-style: solid;
+    border-color: #989898;
+
+}
+
+.top-info {
+
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+
+    width: 50vw;
+
+    margin-left: 3%;
+
+}
